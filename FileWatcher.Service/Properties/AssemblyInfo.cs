@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("FileWatcher.Test")]
+[assembly: AssemblyTitle("FileWatcher.Service")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FileWatcher.Test")]
+[assembly: AssemblyProduct("FileWatcher.Service")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("9fb4674a-c99c-4c79-a45f-d20306d95a06")]
+[assembly: Guid("a0d834c4-195b-4303-ba29-d8b25f2b7b98")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
