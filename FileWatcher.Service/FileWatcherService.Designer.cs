@@ -1,6 +1,6 @@
 ﻿namespace FileWatcher.Service
 {
-    partial class Service1
+    partial class FileWatcherService
     {
         /// <summary> 
         /// Variable nécessaire au concepteur.
